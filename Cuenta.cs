@@ -1,1 +1,1 @@
-//peronperonelperforador
+// entidad cuenta

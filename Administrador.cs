@@ -1,1 +1,1 @@
-//hello
+// entidad Administrador

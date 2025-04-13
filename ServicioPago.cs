@@ -1,1 +1,1 @@
-//peopleo
+// entidad ServcioPago
