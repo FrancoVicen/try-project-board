@@ -1,1 +1,0 @@
-// future entity ServicioPago
